@@ -1,0 +1,10 @@
+v [ 6 ]
+temp 3
+val 0
+v [ 1 4 8 ]
+temp 2
+val 1
+temp 3
+val 1
+temp 10
+val 3
